@@ -1,14 +1,13 @@
 #include <studio.h>
 /**
- * main - prints "Programming is like building a multilingual puzzle,
- * that prints a line with puts function."
- *return 0.
+ * main - "Programming is like building a multilingual puzzle,
+ * that prints a line with puts function.
+ * Return: Always 0.
  */
 
-int main(void)
+it main(void)
 
 {
-	puts("\"programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilngual puzzle");
 	return(0);
 }
-~
