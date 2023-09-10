@@ -1,10 +1,11 @@
 #include <stdio.h>
 /**
- * main - With proper grammar, but the outcome is a piece of art.
- * Return: 0 (great)
+ * main - Giving up is not an option, one step at a time.
+ *
+ * Return: Always 0 (Success)
  */
-int main(void)      
-{       
-printf("with proper grammer, but the outcome is a piece of art,\n")
-return (0);
-}       
+int main(void)
+{
+    printf("with proper grammar, but the outcome is a piece of art,\n");
+    return (0);
+}      
