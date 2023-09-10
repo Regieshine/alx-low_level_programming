@@ -1,6 +1,7 @@
 #include <stdio.h>
+
 /**
- * main - Giving up is not an option, one step at a time.
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
